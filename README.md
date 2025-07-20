@@ -50,4 +50,4 @@ pip install PyOpenGL PyOpenGL_accelerate
 
 ## 📸 Screenshot
 
-![Sorting Algorithm Visualizer Screenshot](image.png)
+![Sorting Algorithm Visualizer Screenshot](https://github.com/PrajwalWadekar/SortingAlgorithmVisualiser/blob/main/output.png)
