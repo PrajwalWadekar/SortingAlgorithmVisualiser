@@ -46,3 +46,8 @@ Make sure you have Python installed along with the required packages:
 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate
+
+
+## 📸 Screenshot
+
+![Sorting Algorithm Visualizer Screenshot](image.png)
